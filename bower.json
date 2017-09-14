@@ -1,0 +1,21 @@
+{
+  "name": "template",
+  "authors": [
+    "toelapiut <toelapiut7@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/toelapiut/angular-temp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
